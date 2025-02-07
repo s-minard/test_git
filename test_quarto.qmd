@@ -1,11 +1,11 @@
 ---
 title: "Test Quarto"
 author: "Sam Minard"
-format: html
+format: gfm
 ---
 
 ## Quarto
-
+ 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
